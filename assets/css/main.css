@@ -3341,6 +3341,18 @@ input, select, textarea {
 			#two {
 				text-align: center;
 			}
+		
+		/* Carousel */
+
+			.carousel {
+				padding: 1.25em 0 1.25em 0;
+			}
+
+				.carousel article {
+					width: 18em;
+					margin: 0 2em 0 0;
+				}
+
 
 	}
 
@@ -3433,7 +3445,7 @@ input, select, textarea {
 
 				.carousel article {
 					width: 18em;
-					margin: 0 1em 0 0;
+					margin: 0 2em 0 0;
 				}
 
 	}
@@ -3487,6 +3499,16 @@ input, select, textarea {
 						#footer .copyright li:first-child {
 							margin-top: 0;
 						}
+		/* Carousel */
+
+		.carousel {
+			padding: 1em 0 1em 0;
+		}
+
+			.carousel article {
+				width: 18em;
+				margin: 0 2.5em 0 0;
+			}
 
 	}
 
@@ -3517,6 +3539,22 @@ input, select, textarea {
 			#footer {
 				padding: 2em 1em 2em 1em ;
 			}
+
+		/* Carousel */
+
+		.carousel {
+			padding: 1.5em 0 1.5em 0;
+		}
+
+			.carousel .reel {
+				padding: 0 1.5em 0 1.5em;
+			}
+
+			.carousel article {
+				width: 18em;
+				margin: 0 2.25em 0 0;
+			}
+
 
 	}
 
@@ -3677,7 +3715,7 @@ input, select, textarea {
 
 				.carousel article {
 					width: 18em;
-					margin: 0 1.25em 0 0;
+					margin: 0 2.25em 0 0;
 				}
 
 	}
